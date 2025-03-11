@@ -90,12 +90,6 @@ MongoDB, and Mongoose ODM.
 - `POST /api/thoughts/:thoughtId/reactions` - Create reaction
 - `DELETE /api/thoughts/:thoughtId/reactions/:reactionId` - Remove reaction
 
-## Demo
-
-> [Video Walkthrough](https://drive.google.com/file/d/1c6MMZOakkj3ZOEO-52-5FrYocVeMb8Ic/view?usp=sharing)
-
-> [Insomnia Demo File](./assets/insomniatest.txt)
-    - local test file only
 
 ## Technologies Used
 
